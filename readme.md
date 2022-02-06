@@ -21,3 +21,10 @@
 - [Websocket](./websocket/)
     - 순수 자바 websocket을 통해 연결해보자
     - cf. https://github.com/TooTallNate/Java-WebSocket
+
+
+---
+## cf.
+- [web socket](./theory/websocket.md)
+- [netty](./theory/netty.md)
+- 프레임워크 성능 측정 지표 : https://www.techempower.com/benchmarks/#section=data-r9&hw=peak&test=plaintext
