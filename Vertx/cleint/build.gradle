@@ -19,7 +19,11 @@ repositories {
 }
 
 dependencies {
-	implementation 'org.springframework.boot:spring-boot-starter-hateoas'
+	implementation 'io.vertx:vertx-core:4.2.0'
+	implementation 'io.vertx:vertx-hazelcast:4.2.0'
+	implementation 'io.netty:netty-tcnative-boringssl-static:2.0.34.Final'
+	implementation 'com.fasterxml.jackson.core:jackson-annotations:2.11.3'
+	implementation 'io.vertx:spring-examples:4.2.0'
 	implementation 'org.springframework.boot:spring-boot-starter-web'
 	compileOnly 'org.projectlombok:lombok'
 	developmentOnly 'org.springframework.boot:spring-boot-devtools'
