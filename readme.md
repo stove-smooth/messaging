@@ -1,4 +1,4 @@
-# TCP 못하겠어~
+# Microservice messaging
 
 ## Overview
 - 마이크로서비스 아키텍처에서 서비스간 통신을 하기 위함
