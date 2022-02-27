@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/66015002/155884217-c63ba4cf-5339-4c6c-9d03-e72f1381e608.png)
 
-> 책이 절판돼서... 도서관까지 가서 빌렷다..!
+> 책이 절판돼서... 도서관까지 가서 빌렸다..!
 
 
 ## Netty 
