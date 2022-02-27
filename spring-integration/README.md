@@ -1,3 +1,15 @@
+# Spring integration 어떯게 동작하는가?
+
+![image](https://user-images.githubusercontent.com/66015002/155884288-114b90b8-a66a-4f0a-956e-31edbca1fe58.png)
+
+- Message: 전송할 데이터
+- Pipes: 메세지를 전송할 채널
+- Filters: 메세지를 보낼 end
+
+![image](https://user-images.githubusercontent.com/66015002/155884306-f0284f6b-48f5-4e40-ba82-c284d7c83e99.png)
+
+
+
 # Spring integration TCP server-client
 - spring integration reference guide : https://docs.spring.io/spring-integration/reference/html/
 - spring integration tcp/udp support : https://docs.spring.io/spring-integration/reference/html/ip.html#ip
