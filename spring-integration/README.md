@@ -1,4 +1,4 @@
-# Spring integration 어떯게 동작하는가?
+# Spring integration 어떻게 동작하는가?
 
 ![image](https://user-images.githubusercontent.com/66015002/155884288-114b90b8-a66a-4f0a-956e-31edbca1fe58.png)
 
