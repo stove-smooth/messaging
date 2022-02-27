@@ -4,7 +4,7 @@
 
 - Message: 전송할 데이터
 - Pipes: 메세지를 전송할 채널
-- Filters: 메세지를 보낼 end
+- Filters: 메세지를 보낼 endpoints
 
 ![image](https://user-images.githubusercontent.com/66015002/155884306-f0284f6b-48f5-4e40-ba82-c284d7c83e99.png)
 
